@@ -1,6 +1,6 @@
-🦄 #**Unicorn Company: Data Exploration & Insights**
+# 🦄 **Unicorn Company: Data Exploration & Insights**
 
-##📄 Context
+## 📄 Context
 Unicorn is a family-owned business in the E-commerce sector, offering a wide range of products across three main categories: technology, furniture, and office supplies. Although Unicorn has already collected substantial data, the data analysis (DA) team is in the process of expanding.
 
 ---
