@@ -53,50 +53,52 @@ In the individual product categories, it was evident that technology and office 
 ---
 
 ## 🔍 Insights
-**Overall performance:**  
-This shows a positive sales and profit trend in the period from 2015 to 2018, with strong seasonal fluctuations in the KPIs sales and profit.
-November and December are the most profitable months in terms of this special KPI`s.
+* **Overall performance:**  
+   * This shows a positive sales and profit trend in the period from 2015 to 2018, with strong seasonal fluctuations in the KPIs sales and profit.
+   * November and December are the most profitable months in terms of this special KPI`s.
 
-**Product category performance:**  
-Technology and office supplies appear to be the most profitable categories.
-while the Furniture category contains subcategories with very weak and below-average performance.
+* **Product category performance:**  
+   * Technology and office supplies appear to be the most profitable categories.
+   * while the Furniture category contains subcategories with very weak and below-average performance.
 
-**Regional performance:**  
-The strongest sales and profit performance is achieved in the West and East regions.
-This suggests potential for further market expansion in these regions.
+* **Regional performance:**  
+   * The strongest sales and profit performance is achieved in the West and East regions.
+   * This suggests potential for further market expansion in these regions.
 
 ---
 
 ## 🔮 Future Work
-**Price analysis:**  
-<ins>Determine price elasticity:</ins> Conduct a detailed price analysis to determine the price elasticity of demand for different products and customer segments.\
-<ins>Identify price differentials:</ins> Investigate price differentials between regions, product categories, and customer segments.\
-<ins>Analyze discount patterns:</ins> Investigate the reasons for high discounts on certain products, such as clearance sales, competitive pressures, or potential inventory issues.
+* **Price analysis:**  
+   * Determine price elasticity: Conduct a detailed price analysis to determine the price elasticity of demand for different products and customer segments.
+   * Identify price differentials: Investigate price differentials between regions, product categories, and customer segments.
+   * Analyze discount patterns: Investigate the reasons for high discounts on certain products, such as clearance sales, competitive pressures, or potential inventory issues.
 
-**Product bundling:**  
-<ins>Analyze purchase behavior:</ins> Investigate which products are frequently purchased together to identify potential cross-selling and up-selling opportunities.\
-<ins>Develop and test:</ins> Create and test attractive product bundles to increase average order value and customer satisfaction.
+* **Product bundling:**  
+   * Analyze purchase behavior: Investigate which products are frequently purchased together to identify potential cross-selling and up-selling opportunities.
+   * Develop and test: Create and test attractive product bundles to increase average order value and customer satisfaction.
 
-**Data enrichment:**  
-<ins>Collect additional data:</ins> Collect customer feedback on product conditions, return rates, and customer demographics (age, income, location) to gain deeper insights into customer behavior and preferences.\
-<ins>Integrate external data:</ins> Consider integrating external data sources such as macroeconomic indicators, competitor information, and market trends.
-
-
+* **Data enrichment:**  
+   * Collect additional data: Collect customer feedback on product conditions, return rates, and customer demographics (age, income, location) to gain deeper insights into customer behavior and preferences.
+   * ntegrate external data: Consider integrating external data sources such as macroeconomic indicators, competitor information, and market trends.
 
 ---
 
 ## 🌟 Standout Section
+**Beyond the core requirements, I enhanced my analysis by:**
+   * Segmenting within Categories: I utilized calculated metrics in Google Sheets (e.g., price per unit, profit margin) to further segment sales and profit KPIs within each product category.
+   * Refining Tableau Filters: I adjusted Tableau filters to analyze trends for specific product subcategories and to investigate the performance of different customer segments within each region. This allowed for a more in-depth analysis of product performance within each category and the identification of high-performing and underperforming subcategories.
 
 ---
 
 ## 📋 Executive Summary
+* Executive Summary Document
 
 ---
 
 ## 🔗 Links
-Link to Tableau Dashboard:  View Dashboard \
-Link to Google Sheets:      View Spreadsheet \
-Link to SQL Documentation:  View SQL Documentation
+* Link to Tableau Dashboard:  View Dashboard
+* Link to Google Sheets:      View Spreadsheet
+* Link to SQL Documentation:  View SQL Documentation
 
 ---
 
