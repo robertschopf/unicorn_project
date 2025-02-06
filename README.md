@@ -48,10 +48,12 @@ In the individual product categories, it was evident that technology and office 
   The dashboard provides a comprehensive overview of business performance and makes it possible to gain important insights. By visualizing KPIs and trends, well-founded decisions can be made.
 
 
+<img width="1695" alt="Screenshot 2025-02-06 at 10 10 38" src="https://github.com/user-attachments/assets/3e1633d3-f525-43de-add5-bf15ba6fbd37" />
 
 ---
 
 ## 🔍 Insights
+
 
 ---
 
