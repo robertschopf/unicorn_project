@@ -53,7 +53,17 @@ In the individual product categories, it was evident that technology and office 
 ---
 
 ## 🔍 Insights
+**Overall performance:**  
+This shows a positive sales and profit trend in the period from 2015 to 2018, with strong seasonal fluctuations in the KPIs sales and profit.
+November and December are the most profitable months in terms of this special KPI`s.
 
+**Product category performance:**  
+Technology and office supplies appear to be the most profitable categories.
+while the Furniture category contains subcategories with very weak and below-average performance.
+
+**Regional performance:**  
+The strongest sales and profit performance is achieved in the West and East regions.
+This suggests potential for further market expansion in these regions.
 
 ---
 
