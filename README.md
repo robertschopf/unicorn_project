@@ -69,16 +69,16 @@ This suggests potential for further market expansion in these regions.
 
 ## 🔮 Future Work
 **Price analysis:**  
-<ins>Determine price elasticity:</ins> Conduct a detailed price analysis to determine the price elasticity of demand for different products and customer segments.
-<ins>Identify price differentials:</ins> Investigate price differentials between regions, product categories, and customer segments.
+<ins>Determine price elasticity:</ins> Conduct a detailed price analysis to determine the price elasticity of demand for different products and customer segments.\
+<ins>Identify price differentials:</ins> Investigate price differentials between regions, product categories, and customer segments.\
 <ins>Analyze discount patterns:</ins> Investigate the reasons for high discounts on certain products, such as clearance sales, competitive pressures, or potential inventory issues.
 
 **Product bundling:**  
-<ins>Analyze purchase behavior:</ins> Investigate which products are frequently purchased together to identify potential cross-selling and up-selling opportunities.
+<ins>Analyze purchase behavior:</ins> Investigate which products are frequently purchased together to identify potential cross-selling and up-selling opportunities.\
 <ins>Develop and test:</ins> Create and test attractive product bundles to increase average order value and customer satisfaction.
 
 **Data enrichment:**  
-<ins>Collect additional data:</ins> Collect customer feedback on product conditions, return rates, and customer demographics (age, income, location) to gain deeper insights into customer behavior and preferences.
+<ins>Collect additional data:</ins> Collect customer feedback on product conditions, return rates, and customer demographics (age, income, location) to gain deeper insights into customer behavior and preferences.\
 <ins>Integrate external data:</ins> Consider integrating external data sources such as macroeconomic indicators, competitor information, and market trends.
 
 
