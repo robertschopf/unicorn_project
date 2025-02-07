@@ -91,7 +91,7 @@ In the individual product categories, it was evident that technology and office 
 ---
 
 ## 📋 Executive Summary
-* Executive Summary Document
+* [Executive Summary Document](https://github.com/robertschopf/unicorn_project/blob/main/Project_Unicorn_summery.pdf)
 
 ---
 
