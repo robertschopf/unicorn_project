@@ -23,7 +23,7 @@ In the individual product categories, it was evident that technology and office 
 
 **Step 1: SQL Queries**
 * Schema Exploration:
-  * Analyzed the database schema (table structures, relationships) using SQL queries (e.g., SELECT * FROM customers LIMIT 5;, DESCRIBE customers;) to understand the available data fields and their relationships.
+  * Analyzed the database schema (table structures, relationships) using SQL queries to understand the available data fields and their relationships.
 
 * Data Extraction:
   * Wrote and executed SQL queries to answer key questions about:
