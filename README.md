@@ -98,7 +98,7 @@ In the individual product categories, it was evident that technology and office 
 ## 🔗 Links
 * Link to Tableau Dashboard:  [View Dashboard](https://public.tableau.com/views/Project_Unicorn/UnicornDashboardbyCategoryandSegment?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 * Link to Google Sheets:      [View Spreadsheet](https://docs.google.com/spreadsheets/d/12tABKnn91MjVXZ7KtPKL8IDQuw5TvX9Fu8-BQ3351_w/edit?usp=sharing)
-* Link to SQL Documentation:  [View SQL Documentation]()
+* Link to SQL Documentation:  [View SQL Documentation](unicorn_project.sql)
 
 ---
 
