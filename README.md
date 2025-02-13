@@ -79,7 +79,7 @@ In the individual product categories, it was evident that technology and office 
 
 * **Data enrichment:**  
    * Collect additional data: Collect customer feedback on product conditions, return rates, and customer demographics (age, income, location) to gain deeper insights into customer behavior and preferences.
-   * ntegrate external data: Consider integrating external data sources such as macroeconomic indicators, competitor information, and market trends.
+   * integrate external data: Consider integrating external data sources such as macroeconomic indicators, competitor information, and market trends.
 
 ---
 
